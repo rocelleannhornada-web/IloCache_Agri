@@ -68,7 +68,7 @@ export default function MainLayout({
         <SidebarInset>
           <header className="flex items-center justify-between p-4 border-b">
             <SidebarTrigger />
-            <h1 className="text-xl font-bold font-headline text-center">
+            <h1 className="text-xl font-bold font-headline text-center flex-1">
               {navItems.find((item) => item.href === pathname)?.label}
             </h1>
             <PriceAlerts />
