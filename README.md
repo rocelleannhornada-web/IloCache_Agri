@@ -1,1 +1,1 @@
-
+IloCache is a simple digital tool that helps localized Filipino farmers—especially in remote areas—get real-time crop prices and selling tips through SMS. It gives clear, local market info so they can sell at better prices and avoid losses.
